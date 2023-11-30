@@ -59,4 +59,5 @@ SuperNewRoles（以下、「当MOD」といいます。）は、本ウェブサ�
 2. サービスの応答速度の向上のために、プロフィール等の公開できる範囲の一部保存情報は[Cloudflare](https://www.cloudflare.com/ja-jp/)のサーバー上に一時的に保存されるものとします。
 ## 第11条（お問い合わせ窓口）
 本ポリシーに関するお問い合わせは、下記のDiscordサーバーまでお願いいたします。
+
 [https://discord.gg/Cqfwx82ynN](https://discord.gg/Cqfwx82ynN)
